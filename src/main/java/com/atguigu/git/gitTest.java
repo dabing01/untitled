@@ -11,5 +11,6 @@ public class gitTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("pull test");
+        System.out.println("这个是GitHub上面的项目");
     }
 }
